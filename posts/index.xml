@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on d</title>
+    <link>https://d8y.github.io/posts/</link>
+    <description>Recent content in Posts on d</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://d8y.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugo on github pages</title>
+      <link>https://d8y.github.io/posts/2019/04/hugo_github_pages/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://d8y.github.io/posts/2019/04/hugo_github_pages/</guid>
+      <description> hugoで作った 参考 # extended sudo wget https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_extended_0.54.0_Linux-64bit.deb sudo dpkg -i ./hugo_extended_0.54.0_Linux-64bit.deb sudo hugo new site {hugo}  テーマインストール(任意) config.tomlの設定 # 出来上がりの確認 sudo hugo server -b  </description>
+    </item>
+    
+  </channel>
+</rss>

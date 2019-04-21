@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://d8y.github.io/posts/2019/04/hugo_github_pages/</loc>
+    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://d8y.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d8y.github.io/logs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://d8y.github.io/posts/</loc>
+    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://d8y.github.io/logs/coffee/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d8y.github.io/</loc>
+    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://d8y.github.io/logs/</loc>
+  </url>
+  
+</urlset>

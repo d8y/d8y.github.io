@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>d</title>
+    <link>https://d8y.github.io/</link>
+    <description>Recent content on d</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://d8y.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugo on github pages</title>
+      <link>https://d8y.github.io/posts/2019/04/hugo_github_pages/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://d8y.github.io/posts/2019/04/hugo_github_pages/</guid>
+      <description> hugoで作った 参考 # extended sudo wget https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_extended_0.54.0_Linux-64bit.deb sudo dpkg -i ./hugo_extended_0.54.0_Linux-64bit.deb sudo hugo new site {hugo}  テーマインストール(任意) config.tomlの設定 # 出来上がりの確認 sudo hugo server -b  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://d8y.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d8y.github.io/about/</guid>
+      <description> Last update 2019-04-07
+開発経験  2016-present: webエンジニア  不動産会社向けSaaSプラットフォーム開発  2014-2016: webエンジニア  社内人事システムの開発・保守 社内勤怠システム開発・保守 社内システムの開発・保守  2013-2016  SAP(HR)導入支援  2013  社内ワークフロー導入支援   スキル 言語/フレームワーク プロダクション開発経験があるもの
+ PHP (5.5,5.6)  codeigniter,fuelphp  MySQL  5.6 5.7  Javascript  Jquery
+  SAP(HR) ABAP  社内ツール、個人ツール等の開発経験があるもの
+ ExcelVBA Node.js Google App Script Raspberry Pi3  </description>
+    </item>
+    
+    <item>
+      <title>coffee</title>
+      <link>https://d8y.github.io/logs/coffee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d8y.github.io/logs/coffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logs</title>
+      <link>https://d8y.github.io/logs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d8y.github.io/logs/</guid>
+      <description> coffee </description>
+    </item>
+    
+  </channel>
+</rss>
